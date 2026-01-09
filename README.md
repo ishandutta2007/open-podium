@@ -60,6 +60,9 @@ OpenPodium is a community-driven project. We welcome contributions of all kinds,
 
 Please read our `CONTRIBUTING.md` (coming soon) to learn how you can get involved.
 
+**Join our [Discord server](https://discord.com/invite/jc4xtF58Ve)** to chat with the team and other contributors.
+
+   
 ---
 
 ### ✨ Star History
