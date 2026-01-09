@@ -62,6 +62,12 @@ Please read our `CONTRIBUTING.md` (coming soon) to learn how you can get involve
 
 ---
 
+### ✨ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/open-podium&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/open-podium&type=date&legend=top-left)
+
+---
+
 ### 📄 License
 
 OpenPodium is licensed under the [MIT License](LICENSE).
